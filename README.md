@@ -1,1 +1,1 @@
-# mucitpark
+# Python eğitimi
